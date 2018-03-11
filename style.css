@@ -1,0 +1,64 @@
+body{
+  background: url(./images/cutcube.png)
+}
+
+#whitebackground {
+  background: #efeee7;
+  padding: 25px;
+}
+
+.navbar-brand {
+  background-color: #4aaaa5;
+  width: 250px;
+  height: 100px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 90px;
+  text-align: center;
+  text-decoration: none;
+  }
+
+.navbar-brand span{
+color:#efeee7;
+}
+#white{
+  color:#efeee7;
+}
+.collapse.collapse.navbar-collapse{ 
+  font-size: 18px;
+  margin-top: 30px;
+}
+
+h1, .panel-title {
+  color:#4aaaa5;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  padding-bottom: 20px;
+  line-height: 49px;
+  border-bottom: 3px solid #ddd;
+} 
+
+.panel-title {
+  font-size: 27px;
+  background: white;
+}
+
+.col-md-4 {
+  text-align: center;
+  }
+#twitter1{
+  width: 70px;
+}
+footer {
+  padding: 30px 0;
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+  height: 50px;
+  margin-top: 50px;
+}
+
+
